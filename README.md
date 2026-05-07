@@ -69,6 +69,13 @@ For many_particle_simulations/fig6
 
 For many_particle_simulations/fig_SI_1
 
+## Requirements
+
+- LAMMPS
+- Python 3
+- NumPy
+- Matplotlib
+
 1. Run Gillespie_BD_NA_50.c, Gillespie_BD_NA_100.c,
 
 2. Run the code plot-5.py
