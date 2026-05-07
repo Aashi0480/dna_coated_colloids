@@ -57,7 +57,7 @@ For many_particle_simulations/fig_5a
 
    created : na1_na2_nb1_nb2_sum_averages.txt
 
-6. Run pythnon3 plot_correct_theory.py
+6. Run plot_correct_theory.py
 
 For fig 5b, 5c, and 5d same steps are followed
 
