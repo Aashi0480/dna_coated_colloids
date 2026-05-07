@@ -1,0 +1,26 @@
+
+
+
+python3 field_last_time_average_na1a2_na2a1_equalspacing.py
+Enter the number of timesteps to process (or -1 for all): 20
+
+created : na1a2_na2a1_averages.txt
+
+python3 final_average_std_na1a2_na2a1_equalspacing.py
+
+created : na1a2_na2a1_sum_averages.txt
+
+python3 field_last_time_average_na1b1_na2b2_equalspacing.py
+Enter the number of timesteps to process (or -1 for all): 20
+
+created : na1b1_na2b2_averages.txt
+
+python3 final_average_std_na1b1_na2b2_equalspacing.py
+
+created : na1b1_na2b2_sum_averages.txt
+
+pythnon3 plot_correct_theory.py
+make the plot 5b
+
+
+ 
