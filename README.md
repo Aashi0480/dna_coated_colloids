@@ -75,5 +75,4 @@ For many_particle_simulations/fig_SI_1
 - Python 3
 - NumPy
 - Matplotlib
-- 
 
